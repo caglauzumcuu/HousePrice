@@ -41,13 +41,17 @@ farklı tipteki evlerin fiyatlarına ilişkin bir makine öğrenmesi modeli geli
 ---
 
 ## 📁 Proje Yapısı
+```
 house-price-prediction/
 │
 ├── 📓 house_price_prediction.ipynb   # Ana notebook
 ├── 📄 train.csv                      # Eğitim verisi
 ├── 📄 test.csv                       # Test verisi
+├── 📄 data_description.txt           # Değişken açıklamaları
+├── 📄 House_Price.pdf                # Proje brief dökümanı
 ├── 📄 submission.csv                 # Kaggle submission dosyası
-└── 📄 README.md
+└── 📄 README.md                      # Proje açıklaması
+```
 
 ---
 
@@ -140,7 +144,7 @@ jupyter notebook house_price_prediction.ipynb
 
 ## 👤 Yazar
 
-**[Adın Soyadın]**  
+**[Çağla Üzümcü]**  
 [LinkedIn](https://linkedin.com/in/çağla-üzümcü-809605202/) · [GitHub](https://github.com/caglauzumcuu) 
 
 ---
