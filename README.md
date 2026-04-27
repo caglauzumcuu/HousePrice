@@ -48,7 +48,6 @@ house-price-prediction/
 ├── 📄 train.csv                      # Eğitim verisi
 ├── 📄 test.csv                       # Test verisi
 ├── 📄 data_description.txt           # Değişken açıklamaları
-├── 📄 House_Price.pdf                # Proje brief dökümanı
 ├── 📄 submission.csv                 # Kaggle submission dosyası
 └── 📄 README.md                      # Proje açıklaması
 ```
