@@ -148,5 +148,7 @@ jupyter notebook house_price_prediction.ipynb
 [LinkedIn](https://linkedin.com/in/çağla-üzümcü-809605202/) · [GitHub](https://github.com/caglauzumcuu) 
 
 ---
+## 📄 Lisans
 
+Bu proje MIT lisansı ile lisanslanmıştır.
 
