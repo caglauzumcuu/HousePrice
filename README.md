@@ -111,7 +111,7 @@ house-price-prediction/
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/kullaniciadi/house-price-prediction.git
+git clone https://github.com/caglauzumcuu/house-price-prediction.git
 cd house-price-prediction
 
 # Gerekli kütüphaneleri yükle
